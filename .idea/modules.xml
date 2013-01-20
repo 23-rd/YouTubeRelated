@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FakeMavenModule/FakeYouTubeConnector.iml" filepath="$PROJECT_DIR$/FakeMavenModule/FakeYouTubeConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouTubeConnector/YouTubeConnector.iml" filepath="$PROJECT_DIR$/YouTubeConnector/YouTubeConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YouTubeRelated.iml" filepath="$PROJECT_DIR$/YouTubeRelated.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YouTube">
+    <output-path>$PROJECT_DIR$/out/artifacts/YouTube</output-path>
+    <root id="archive" name="YouTube.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="YouTubeRelated" />
+      <element id="library" level="project" name="org.junit:com.springsource.org.junit:4.9.0" />
+      <element id="module-test-output" name="YouTubeRelated" />
+      <element id="dir-copy" path="$PROJECT_DIR$/FakeYouTubeConnector" />
+      <element id="dir-copy" path="$PROJECT_DIR$/YouTubeConnector" />
+    </root>
+  </artifact>
+</component>
