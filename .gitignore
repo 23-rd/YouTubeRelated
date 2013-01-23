@@ -1,3 +1,10 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
 #################
 ## Eclipse
 #################
@@ -126,6 +133,11 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+# IntelliJ #
+*.iml
+*.ipr
+*.iws
+.idea/
 
 #############
 ## Python
